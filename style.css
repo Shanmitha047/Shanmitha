@@ -1,0 +1,14 @@
+#myphoto{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    animation: infinite;
+}
+.gradient-background {
+    background: linear-gradient(300deg, #d4e635, #eef60b, #ddd7d6);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  .educationbutton{
+    background-color: #a3a900;
+  }
